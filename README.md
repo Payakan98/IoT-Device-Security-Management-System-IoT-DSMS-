@@ -1,6 +1,6 @@
-IoT Device Security Management System (IoT-DSMS)
+### IoT Device Security Management System (IoT-DSMS)
 
-## Objectiff
+## Objectif
 Développer un système complet pour sécuriser, superviser et maintenir un parc d’appareils IoT.
 Il combine :
 
