@@ -1,6 +1,6 @@
-IoT Device Security Management System (IoT-DSMS)
+## IoT Device Security Management System (IoT-DSMS)
 
-## Objectiff
+### Objectif
 Développer un système complet pour sécuriser, superviser et maintenir un parc d’appareils IoT.
 Il combine :
 
@@ -16,7 +16,7 @@ API REST + Dashboard web admin
 
 Architecture modulaire et extensible
 
-## Fonctionnalités principales
+### Fonctionnalités principales
 1️.Device Security & Monitoring
 
 Ajout, suppression et inventaire des appareils
@@ -69,7 +69,7 @@ Dashboard simple (Flask + Bootstrap)
 
 Visualisation : devices, rapports, alertes, mises à jour
 
-## Structure du projet
+### Structure du projet
 
 IoT-DSMS/
 │── src/
@@ -85,7 +85,7 @@ IoT-DSMS/
 │── README.md
 │── .gitignore
 
-## Stack technique utilisée
+### Stack technique utilisée
 Back-end
 
 Python 3.10
@@ -128,10 +128,10 @@ Logging structuré
 
 Architecture modulaire
 
-## Aperçu du Dashboard
+### Aperçu du Dashboard
 TODO: add screenshots
 
-## Exemple de cas d’utilisation
+### Exemple de cas d’utilisation
 1) Ajouter un appareil
 
 POST /devices/register
@@ -150,7 +150,7 @@ POST /updates/deploy
 
 GET /reports/generate
 
-## Installation & Lancement
+### Installation & Lancement
 
     git clone https://github.com/<ton-username>/IoT-DSMS.git
     cd IoT-DSMS
